@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+.DS_Store+
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven target
+*/target/
+target/
+medius-vaadin-sampler/.thorntail-runner-cache
